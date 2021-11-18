@@ -40,8 +40,8 @@ Publisher
 
 
 
-
 **Credits**
+
 Opencv/Model
 - https://github.com/opencv/opencv/tree/master/data/haarcascades
 - https://www.youtube.com/watch?v=Ax6P93r32KU
