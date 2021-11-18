@@ -45,8 +45,10 @@ Publisher
 Opencv/Model
 - https://github.com/opencv/opencv/tree/master/data/haarcascades
 - https://www.youtube.com/watch?v=Ax6P93r32KU
+
 Esp32/Cam
 - https://github.com/yoursunny/esp32cam
+
 GUI
 - https://classroom.google.com/u/1/c/MzY4ODkyNTcxMDU4
 - https://www.youtube.com/watch?v=g-KDOH_uqPk
